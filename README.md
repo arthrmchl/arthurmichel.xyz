@@ -1,4 +1,4 @@
-<h1>arthurmichel.fr</h1>
+<h1>arthurmichel.xyz</h1>
 
 [![pages-build-deployment](https://github.com/arthrmchl/arthurmichel.fr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/arthrmchl/arthurmichel.fr/actions/workflows/pages/pages-build-deployment)
 
